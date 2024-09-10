@@ -1,6 +1,9 @@
-## Hi, I'm Najib 👋
+##¡Hola! Soy Najib Alejandro, desarrollador de aplicaciones móviles con experiencia en Android y iOS. Me apasiona crear soluciones digitales innovadoras y optimizar la experiencia del usuario a través de un diseño intuitivo y código limpio.
 
-## Desarrollador de aplicaciones android con Kotlin  
+# 🔧 Habilidades Técnicas:
+
+Android: Kotlin, Java, Jetpack Compose, Material Design, Retrofit, Room, Hilt, Coil, Glide.
+iOS: Swift, SwiftUI, CoreData, MVVM.
 <!--
 **BlueAl98/BlueAl98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
