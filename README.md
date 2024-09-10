@@ -1,4 +1,4 @@
-##¡Hola! Soy Najib Alejandro, desarrollador de aplicaciones móviles con experiencia en Android y iOS. Me apasiona crear soluciones digitales innovadoras y optimizar la experiencia del usuario a través de un diseño intuitivo y código limpio.
+### ¡Hola! Soy Najib Alejandro, desarrollador de aplicaciones móviles con experiencia en Android y iOS. Me apasiona crear soluciones digitales innovadoras y optimizar la experiencia del usuario a través de un diseño intuitivo y código limpio.
 
 # 🔧 Habilidades Técnicas:
 
