@@ -23,4 +23,5 @@
 🔥 Lo que estoy haciendo actualmente:
 
 🚀 Explorando las capacidades avanzadas de SwiftUI para interfaces fluidas y dinámicas.
+
 🧪 Trabajando con Jetpack Compose para crear experiencias visuales modernas en Android.
