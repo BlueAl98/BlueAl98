@@ -10,7 +10,7 @@
 
 📱 Frameworks: SwiftUI, UIKit, Jetpack Compose, Android SDK, Flutter
 
-🔧 Herramientas: Xcode, Android Studio, Git, Fastlane
+🔧 Herramientas: Xcode, Android Studio, Git
 
 🌐 APIs & Networking: REST, GraphQL, URLSession, Retrofit, OkHttp
 
