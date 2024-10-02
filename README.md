@@ -6,7 +6,7 @@
 
 💻 Habilidades y Tecnologías:
 
-🟢 Lenguajes: Swift, Kotlin, Java, Dart
+🟢 Lenguajes: Swift, Kotlin, Java
 
 📱 Frameworks: SwiftUI, UIKit, Jetpack Compose, Android SDK, Flutter
 
