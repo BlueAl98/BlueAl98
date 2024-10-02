@@ -11,7 +11,7 @@
 🛠 Arquitectura: MVVM, Clean Architecture, Dependency Injection (Hilt/Dagger)
 🎨 UI/UX: Material Design, Human Interface Guidelines (HIG)
 🗃 Base de Datos: Room, CoreData, SQLite, Firebase
+
 🔥 Lo que estoy haciendo actualmente:
-💡 Desarrollando nuevas funcionalidades para una app de reservas 🏨.
 🚀 Explorando las capacidades avanzadas de SwiftUI para interfaces fluidas y dinámicas.
 🧪 Trabajando con Jetpack Compose para crear experiencias visuales modernas en Android.
