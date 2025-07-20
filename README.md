@@ -48,3 +48,7 @@
 
 📫 **Let's connect:**  
 Feel free to reach out or check out my repositories!
+
+### Portfolio
+
+- https://blueal98.github.io/react-profile/
